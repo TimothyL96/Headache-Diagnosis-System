@@ -13,5 +13,3 @@ Firstly, load q2.clp and only then load q2_1.clp.
 2. After that, it will ask 10 general questions such as fever and fatigueness.
 3. It will then analyse the answers given to the 10 general questions and ask some more specific questions.
 4. If all 10 general questions are answered no, the system will end and indicate no sickness for that patient.
-
-#### Coded in one day by myself with medical resources from the internet.
